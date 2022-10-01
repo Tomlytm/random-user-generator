@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+#app {
+    text-align: center;
+    margin-top: 30%;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    border-radius: 50%;
+    border: 2px solid orange;
+}
+button {
+    background-color: orange;
+    text-shadow: 1px 1px 2px black;
+    color: beige;
+    font-weight: 600;
+    padding: 6px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    padding:7px 13px;
+}
